@@ -59,7 +59,7 @@ class TransactionsRepository {
     );
 
     const balance = {
-      total,
+      total: Number(total.toFixed(2)),
       income,
       outcome,
     };
