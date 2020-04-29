@@ -1,7 +1,7 @@
 # typescript-nodejs-concepts
 Conceitos do Node.js utilizando o TypeScript. Desafio da Bootcamp GoStack da Rocketseat
 
-Esta aplicação tem o intuito de mostrar como fazer uso do TypeScript e suas funcionalidades na construço de uma API.
+Esta aplicação tem o intuito de mostrar como fazer uso do TypeScript e suas funcionalidades na construção de uma API.
 
 ## :information_source: Sobre a API
 
